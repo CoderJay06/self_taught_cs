@@ -5,9 +5,6 @@
         2. Invert a binary tree using depth first traversal
 */
 
-
-
-
 class BinaryTree {
     constructor(value) {
         this.key = value;
